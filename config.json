@@ -1,0 +1,12 @@
+{
+    "Credentials": {
+        "Sender": "",
+        "Passwors": ""
+    },
+    "Host": "smtp.gmail.com",
+    "SMTPAddress": "smtp.gmail.com:587",
+    "Recipient": [
+        ""
+    ],
+    "TestPingHost": "www.google.com"
+}
